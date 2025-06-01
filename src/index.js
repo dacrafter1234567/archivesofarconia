@@ -11,7 +11,7 @@ import Affinities from './pages/Affinities';
 
 function App() {
   return(
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename="/archivesofarconia">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
