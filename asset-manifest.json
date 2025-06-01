@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/archivesofarconia/static/css/main.76dfbffa.css",
-    "main.js": "/archivesofarconia/static/js/main.63d5015d.js",
+    "main.js": "/archivesofarconia/static/js/main.1801dcde.js",
     "static/media/Frostvale.png": "/archivesofarconia/static/media/Frostvale.010de40659c4ec54b33d.png",
     "static/media/arconiamapgradient.png": "/archivesofarconia/static/media/arconiamapgradient.e8c232c1d0370e83b1de.png",
     "static/media/VerilSpires.png": "/archivesofarconia/static/media/VerilSpires.e2e96fcfbc5ad74cd6c0.png",
@@ -33,6 +33,7 @@
     "static/media/Light--SeralineTheUndyingStar.jpg": "/archivesofarconia/static/media/Light--SeralineTheUndyingStar.318267b6c740177360a2.jpg",
     "static/media/AffinityIcon.jpg": "/archivesofarconia/static/media/AffinityIcon.60fad4a5e98faec84ff5.jpg",
     "static/media/Lightning--OrathisTheEminentStormborn.jpg": "/archivesofarconia/static/media/Lightning--OrathisTheEminentStormborn.4fc0bd9f03e50c7f6f9a.jpg",
+    "static/media/SkillTreesIcon.png": "/archivesofarconia/static/media/SkillTreesIcon.883c800d2ea1c4e1393d.png",
     "static/media/Ice--Seirl-OcryosTheFrozenBlade.jpg": "/archivesofarconia/static/media/Ice--Seirl-OcryosTheFrozenBlade.1988bdacd4a9f6d51bf6.jpg",
     "static/media/Sound--MadrisTheCelestialMuse.jpg": "/archivesofarconia/static/media/Sound--MadrisTheCelestialMuse.99b459f7f34445c52bd7.jpg",
     "static/media/Darkness--DryntiasQueenOfTheVoid.jpg": "/archivesofarconia/static/media/Darkness--DryntiasQueenOfTheVoid.5087237c091966a86e99.jpg",
@@ -52,10 +53,10 @@
     "static/media/discordlogo.png": "/archivesofarconia/static/media/discordlogo.532540a2cb15c81438a1.png",
     "index.html": "/archivesofarconia/index.html",
     "main.76dfbffa.css.map": "/archivesofarconia/static/css/main.76dfbffa.css.map",
-    "main.63d5015d.js.map": "/archivesofarconia/static/js/main.63d5015d.js.map"
+    "main.1801dcde.js.map": "/archivesofarconia/static/js/main.1801dcde.js.map"
   },
   "entrypoints": [
     "static/css/main.76dfbffa.css",
-    "static/js/main.63d5015d.js"
+    "static/js/main.1801dcde.js"
   ]
 }
