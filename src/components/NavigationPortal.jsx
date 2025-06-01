@@ -4,6 +4,7 @@ import ItemsIcon from "../assets/ItemsIcon.png";
 import GalleryIcon from "../assets/GalleryIcon.jpg";
 import CharacterIcon from "../assets/CharacterIcon.png";
 import AffinityIcon from "../assets/AffinityIcon.jpg";
+import SkillTreesIcon from "../assets/SkillTreesIcon.png";
 
 const NavigationPortal = () => (
     <div className="pageportal">
@@ -48,6 +49,14 @@ const NavigationPortal = () => (
                   </Link>
                   <Link to="/affinities">
                     <p>Affinities</p>
+                  </Link>
+                </section>
+                <section className="portal">
+                <Link to="/skilltrees">
+                    <img src={SkillTreesIcon} alt="Skill Trees" />
+                  </Link>
+                  <Link to="/skilltrees">
+                    <p>Skill Trees</p>
                   </Link>
                 </section>
               </div>
