@@ -52,10 +52,10 @@ const NavigationPortal = () => (
                   </Link>
                 </section>
                 <section className="portal">
-                <Link to="/skilltrees">
+                <Link to="/trees">
                     <img src={SkillTreesIcon} alt="Skill Trees" />
                   </Link>
-                  <Link to="/skilltrees">
+                  <Link to="/trees">
                     <p>Skill Trees</p>
                   </Link>
                 </section>

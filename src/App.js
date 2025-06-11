@@ -6,6 +6,7 @@ import Items from './pages/Items';
 import Locations from './pages/Locations';
 import Characters from './pages/Characters';
 import Affinities from './pages/Affinities';
+import Trees from './pages/Trees';
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
           <Route path="locations" element={<Locations />} />
           <Route path="characters" element={<Characters />} />
           <Route path="affinities" element={<Affinities />} />
+          <Route path="trees" element={<Trees />} />
         </Route>
       </Routes>
     </BrowserRouter>

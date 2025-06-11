@@ -1,11 +1,8 @@
 import React from "react";
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
 import "./css/Items.css";  // ✅ Make sure your styles are correct
-import ArconiaLogo from "../assets/ArconiaLogo.jpg";
 import BaelzirsFury from "../assets/BaelzirsFury.jpg";
 import BootsoftheSteadfastChampion from "../assets/BootsoftheSteadfastChampion.jpg";
 import GauntletsofWrath from "../assets/GauntletsofWrath.jpg";
-import discordlogo from "../assets/discordlogo.png";
 
 const ItemsContent = () => {
   return (
