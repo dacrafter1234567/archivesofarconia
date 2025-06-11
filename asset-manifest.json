@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/archivesofarconia/static/css/main.76dfbffa.css",
-    "main.js": "/archivesofarconia/static/js/main.1801dcde.js",
+    "main.js": "/archivesofarconia/static/js/main.0efb7ced.js",
     "static/media/Frostvale.png": "/archivesofarconia/static/media/Frostvale.010de40659c4ec54b33d.png",
     "static/media/arconiamapgradient.png": "/archivesofarconia/static/media/arconiamapgradient.e8c232c1d0370e83b1de.png",
     "static/media/VerilSpires.png": "/archivesofarconia/static/media/VerilSpires.e2e96fcfbc5ad74cd6c0.png",
@@ -53,10 +53,10 @@
     "static/media/discordlogo.png": "/archivesofarconia/static/media/discordlogo.532540a2cb15c81438a1.png",
     "index.html": "/archivesofarconia/index.html",
     "main.76dfbffa.css.map": "/archivesofarconia/static/css/main.76dfbffa.css.map",
-    "main.1801dcde.js.map": "/archivesofarconia/static/js/main.1801dcde.js.map"
+    "main.0efb7ced.js.map": "/archivesofarconia/static/js/main.0efb7ced.js.map"
   },
   "entrypoints": [
     "static/css/main.76dfbffa.css",
-    "static/js/main.1801dcde.js"
+    "static/js/main.0efb7ced.js"
   ]
 }
