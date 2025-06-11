@@ -19,6 +19,7 @@ const App = () => {
           <Route path="characters" element={<Characters />} />
           <Route path="affinities" element={<Affinities />} />
           <Route path="trees" element={<Trees />} />
+          <Route path="*" element={<h1>404 Not Found</h1>} />
         </Route>
       </Routes>
     </BrowserRouter>

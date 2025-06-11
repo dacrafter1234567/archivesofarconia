@@ -1,16 +1,9 @@
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
-import ItemsContent from "./ItemsContent";
-import DiscordSection from './DiscordSection';
-import StaffSection from './StaffSection';
-import UnderNavText from "./UnderNavText";
+console.log("Rendering TreesPage.jsx");
 
 const TreesPage = () => {
   return (
-    <main className="main-content">
+    <main>
       <h1>Skill Trees Page</h1>
     </main>
   );
 };
-
-  
-  export default TreesPage;
