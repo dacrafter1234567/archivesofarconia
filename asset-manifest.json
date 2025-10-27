@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/archivesofarconia/static/css/main.76dfbffa.css",
-    "main.js": "/archivesofarconia/static/js/main.0efb7ced.js",
+    "main.css": "/archivesofarconia/static/css/main.af05ed26.css",
+    "main.js": "/archivesofarconia/static/js/main.8278f471.js",
     "static/media/Frostvale.png": "/archivesofarconia/static/media/Frostvale.010de40659c4ec54b33d.png",
     "static/media/arconiamapgradient.png": "/archivesofarconia/static/media/arconiamapgradient.e8c232c1d0370e83b1de.png",
     "static/media/VerilSpires.png": "/archivesofarconia/static/media/VerilSpires.e2e96fcfbc5ad74cd6c0.png",
@@ -17,6 +17,7 @@
     "static/media/CodyDe'Airos.jpg": "/archivesofarconia/static/media/CodyDe'Airos.102968f527fbf7cf604e.jpg",
     "static/media/EiselVoross.jpg": "/archivesofarconia/static/media/EiselVoross.e8e67eb3eed819e4e1de.jpg",
     "static/media/Shadow--KershnaTheMaskedEspionage.jpg": "/archivesofarconia/static/media/Shadow--KershnaTheMaskedEspionage.38b274783358b2af1729.jpg",
+    "static/media/SpeedIcon.png": "/archivesofarconia/static/media/SpeedIcon.7ed6928f2be37df52d06.png",
     "static/media/AdonisDestrey.jpg": "/archivesofarconia/static/media/AdonisDestrey.f7030ebeb5cda6b0e6db.jpg",
     "static/media/Wind--AeropirrTheFourWinds.jpg": "/archivesofarconia/static/media/Wind--AeropirrTheFourWinds.676e614f24ed1a03da2f.jpg",
     "static/media/KaravelleDevantine.jpg": "/archivesofarconia/static/media/KaravelleDevantine.b03d4676e5debea21d1b.jpg",
@@ -31,6 +32,7 @@
     "static/media/HeliaMayr.jpg": "/archivesofarconia/static/media/HeliaMayr.60da6f729549c5beccf6.jpg",
     "static/media/Speed--VerokinetisMessengerOfTheGods.jpg": "/archivesofarconia/static/media/Speed--VerokinetisMessengerOfTheGods.eed094592ccc581443e2.jpg",
     "static/media/Light--SeralineTheUndyingStar.jpg": "/archivesofarconia/static/media/Light--SeralineTheUndyingStar.318267b6c740177360a2.jpg",
+    "static/media/FormIcon.png": "/archivesofarconia/static/media/FormIcon.b56b9dff70f07245de73.png",
     "static/media/AffinityIcon.jpg": "/archivesofarconia/static/media/AffinityIcon.60fad4a5e98faec84ff5.jpg",
     "static/media/Lightning--OrathisTheEminentStormborn.jpg": "/archivesofarconia/static/media/Lightning--OrathisTheEminentStormborn.4fc0bd9f03e50c7f6f9a.jpg",
     "static/media/SkillTreesIcon.png": "/archivesofarconia/static/media/SkillTreesIcon.883c800d2ea1c4e1393d.png",
@@ -42,21 +44,34 @@
     "static/media/Gravity--LegyryxThePlanetaryForce.jpg": "/archivesofarconia/static/media/Gravity--LegyryxThePlanetaryForce.d0013bc548d56390e75a.jpg",
     "static/media/Energy--ErgovitsChampionOfTheCurrent.jpg": "/archivesofarconia/static/media/Energy--ErgovitsChampionOfTheCurrent.7eef724b586da644185d.jpg",
     "static/media/Illusion--MystliertisTheVehementTrickster.jpg": "/archivesofarconia/static/media/Illusion--MystliertisTheVehementTrickster.c29a2e3816e2e8667de4.jpg",
+    "static/media/MindIcon.png": "/archivesofarconia/static/media/MindIcon.b3f818e4f8426a4b4b4e.png",
     "static/media/Smoke--YukSylnorTheShroudedHunter.jpg": "/archivesofarconia/static/media/Smoke--YukSylnorTheShroudedHunter.1e55a28a67725a9c7916.jpg",
     "static/media/AzureVail.jpg": "/archivesofarconia/static/media/AzureVail.5ca352216d3f1d05be6d.jpg",
     "static/media/Metal-FerrsatoxTheMightyShield.jpg": "/archivesofarconia/static/media/Metal-FerrsatoxTheMightyShield.351c9dea3f4374b712bc.jpg",
     "static/media/Poison--VenoliskCorruptorOfRealms.jpg": "/archivesofarconia/static/media/Poison--VenoliskCorruptorOfRealms.939e1589480352888de6.jpg",
     "static/media/Water--HaedronmirTheDeepMystic.jpg": "/archivesofarconia/static/media/Water--HaedronmirTheDeepMystic.2ed16fd818dc9ea6e2e8.jpg",
     "static/media/Mind--JelaneurTheGrandEyeSeer.jpg": "/archivesofarconia/static/media/Mind--JelaneurTheGrandEyeSeer.2d598f9ccdfac37f3f3c.jpg",
+    "static/media/NatureIcon.png": "/archivesofarconia/static/media/NatureIcon.6c6414129adc4b8feb62.png",
+    "static/media/SoundIcon.png": "/archivesofarconia/static/media/SoundIcon.b2f0f2d535aa4c49dc74.png",
+    "static/media/EnergyIcon.png": "/archivesofarconia/static/media/EnergyIcon.73eadb96833d00c450a8.png",
     "static/media/Creation--MertisCreatorOfPlanes.jpg": "/archivesofarconia/static/media/Creation--MertisCreatorOfPlanes.681f40b50ec5cdfd5528.jpg",
+    "static/media/SoulIcon.png": "/archivesofarconia/static/media/SoulIcon.2e1e22d56415f2711ae1.png",
+    "static/media/ShadowIcon.png": "/archivesofarconia/static/media/ShadowIcon.23e2ad552b75ea523706.png",
     "static/media/GalleryIcon.jpg": "/archivesofarconia/static/media/GalleryIcon.b4d1c566c20f194d908f.jpg",
+    "static/media/MetalIcon.png": "/archivesofarconia/static/media/MetalIcon.31776afab0bfe8d0405a.png",
+    "static/media/WaterIcon.png": "/archivesofarconia/static/media/WaterIcon.990a8aeacf52e38db4e3.png",
+    "static/media/ArcanaIcon.png": "/archivesofarconia/static/media/ArcanaIcon.d329c5c6665396b395c1.png",
+    "static/media/GravityIcon.png": "/archivesofarconia/static/media/GravityIcon.a31379aa8f1019c74f4f.png",
+    "static/media/LightningIcon.png": "/archivesofarconia/static/media/LightningIcon.8021facc6ab185f7be11.png",
     "static/media/discordlogo.png": "/archivesofarconia/static/media/discordlogo.532540a2cb15c81438a1.png",
+    "static/media/WindIcon.png": "/archivesofarconia/static/media/WindIcon.82f0fd86b4118944d75d.png",
+    "static/media/LightIcon.png": "/archivesofarconia/static/media/LightIcon.f9cf26f3d4a0e47f7e22.png",
     "index.html": "/archivesofarconia/index.html",
-    "main.76dfbffa.css.map": "/archivesofarconia/static/css/main.76dfbffa.css.map",
-    "main.0efb7ced.js.map": "/archivesofarconia/static/js/main.0efb7ced.js.map"
+    "main.af05ed26.css.map": "/archivesofarconia/static/css/main.af05ed26.css.map",
+    "main.8278f471.js.map": "/archivesofarconia/static/js/main.8278f471.js.map"
   },
   "entrypoints": [
-    "static/css/main.76dfbffa.css",
-    "static/js/main.0efb7ced.js"
+    "static/css/main.af05ed26.css",
+    "static/js/main.8278f471.js"
   ]
 }
