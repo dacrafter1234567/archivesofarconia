@@ -1,7 +1,7 @@
 import React from 'react';
 import TreesPage from '../components/TreesPage';
-
-console.log("Rendering Trees.jsx");
+import './css/Trees.css'; // Optional if you want page-specific styling
+import '../global.css';
 
 const Trees = () => {
   return (

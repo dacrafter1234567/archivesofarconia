@@ -1,9 +1,42 @@
-console.log("Rendering TreesPage.jsx");
+import React from "react";
+import './css/Trees.css'; // Optional styling
+import DiscordSection from './DiscordSection';
+import StaffSection from './StaffSection';
+import UnderNavText from './UnderNavText';
+import TreesContent from "./TreesContent";
 
-const TreesPage = () => {
-  return (
-    <main>
-      <h1>Skill Trees Page</h1>
-    </main>
-  );
-};
+const MainContent = () => {
+    return (
+      <main className="main-content">
+        <div className="undernavtext">
+          <UnderNavText />
+        </div>
+  
+        <div className="flex-container">
+          <div className="bigleft">
+            <TreesContent />
+          </div>
+  
+          <div className="smallright">
+            <div className="flex-container">
+              <div className="pageportal">
+                <DiscordSection />
+                <StaffSection />
+              </div>
+            </div>
+          </div>
+        </div>
+  
+        <div className="bottommobilestuff">
+          <div className="flex-container">
+            <div className="column example">
+              <DiscordSection />
+              <StaffSection />
+            </div>
+          </div>
+        </div>
+      </main>
+    );
+  };
+  
+  export default MainContent;

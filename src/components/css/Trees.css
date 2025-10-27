@@ -1,0 +1,22 @@
+
+.elementportal{
+  justify-content: center;
+  display: block;
+  flex: 1;
+  margin: 10px;
+}
+
+.elementportal img{
+  width: 125px;
+  height: 120px;
+  border: solid 5px black;
+  border-radius: 10px;
+}
+
+.elementportal p{
+  margin-top: 5px;
+  color:#d4a03a;
+  font-size: small;
+}
+
+
