@@ -6,7 +6,7 @@ body {
   margin-top: 0;
   background-color: black;
   margin-bottom: 0;
-  background-image: url('../public/images/arconiamapgradient.png'); /* Corrected path */
+  background-image: url('../public/images/arconiamapgradient.png');
   background-size: 100%;
   background-position: relative;
   background-repeat: no-repeat;

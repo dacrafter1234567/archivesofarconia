@@ -4,9 +4,9 @@ import "./css/Trees.css";
 import DiscordSection from "./DiscordSection";
 import StaffSection from "./StaffSection";
 import UnderNavText from "./UnderNavText";
-import TreesContent from "./TreesContent";
+import TestTreeContent from "./TestTreeContent";
 
-const TreesPage = () => {
+const TestTree = () => {
   const location = useLocation();
   return (
     <main className="main-content">
@@ -16,7 +16,7 @@ const TreesPage = () => {
 
       <div className="flex-container">
         <div className="bigleft">
-          <TreesContent />
+          <TestTreeContent />
           <Outlet />
         </div>
 
@@ -34,4 +34,4 @@ const TreesPage = () => {
   );
 };
 
-export default TreesPage;
+export default TestTree;

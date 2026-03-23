@@ -25,6 +25,7 @@ import SoundIcon from "../assets/SoundIcon.png";
 import SpeedIcon from "../assets/SpeedIcon.png";
 import WaterIcon from "../assets/WaterIcon.png";
 import WindIcon from "../assets/WindIcon.png";
+import TestIcon from "../assets/TestIcon.png";
 
 const TreesContent = () => {
   return (
@@ -36,7 +37,7 @@ const TreesContent = () => {
             <div className="column example">
 
               <section className="elementportal">
-                <Link to="items">
+                <Link to="/items">
                   <img src={ArcanaIcon} alt="Items" />
                   <p>Arcana</p>
                 </Link>
@@ -202,6 +203,14 @@ const TreesContent = () => {
                   <p>Wind</p>
                 </Link>
               </section>
+
+              <section className="elementportal">
+                <Link to="/test">
+                  <img src={TestIcon} alt="Test Tree" />
+                  <p>Test Tree</p>
+                </Link>
+              </section>
+
 
             </div>
           </td>

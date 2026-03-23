@@ -136,7 +136,7 @@ main{
 .bottomdiscord{
   flex: 1;
   margin: 4%;
-  margin-top: 0;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
@@ -210,6 +210,10 @@ main{
       margin-left: 3%;
       margin-right: 3%;
   }
+
+  .bottomdiscord{
+  margin-top: 0px;
+}
 }
 
 @media (min-width: 1250px) {
